@@ -1,0 +1,6 @@
+prices[i]);
+}
+for(i=0;i<n;i++)
+{ sum=sum+price[i];
+}
+if 
