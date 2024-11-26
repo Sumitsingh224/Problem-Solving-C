@@ -1,0 +1,13 @@
+<stdio.h>
+#include <conio.h>
+int main()
+int c1,c2,c3,temp;
+int locks, stocks, barrels, totallocks, totalstocks, totalbarrels;
+float lockprice, stockprice, barrelprice, localsales, stocksales, barrelsales, sales,com;
+lockprice = 45.0;
+stockprice = 30.0;
+barrelprice = 0;
+totalstocks =0;
+total barrels = 0;
+clrscr();
+print("Enter the number of locks and to exit press -1/m");
